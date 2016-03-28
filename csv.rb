@@ -1,3 +1,5 @@
+#Practica con CSV y github
+#:D
 require 'faker'
 require 'csv'
 #Class person
@@ -34,7 +36,7 @@ end
     array_persons
   end
 
-
+ 
 people = number_persons(20)
 #p people[0].first_name
 
